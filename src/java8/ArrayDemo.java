@@ -16,7 +16,7 @@ public class ArrayDemo {
 		}
 		
 	
-		Arrays.parallelSort(a,1,3);  
+		Arrays.sort(a,1,3);  
         System.out.println("\nArray elements after sorting");  
         // Iterating array elements  
         for (int i : a) {  

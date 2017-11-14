@@ -21,8 +21,11 @@ public class ArrayDemo {
         // Iterating array elements  
         for (int i : a) {  
             System.out.print(i+" ");  
+		
+		
 	
         }
+		System.out.println("java8");
 	}
 
 }
